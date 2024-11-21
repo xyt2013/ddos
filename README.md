@@ -2,6 +2,8 @@
 
 ## 用C++实现的ddos攻击
 
+[English statement](https://www.luogu.com/article/eshzkz15)
+
 **注:请勿将此程序用于不法手段**
 
 - 编译环境：Visual Studio 2022、CMake
